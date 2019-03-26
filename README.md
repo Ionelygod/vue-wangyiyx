@@ -38,5 +38,6 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
     focusList：
       轮播图
+	  11
 
 
